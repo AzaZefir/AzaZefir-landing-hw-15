@@ -22,7 +22,9 @@
     "gulp-pug": "^5.0.0",
     "gulp-sass": "^5.0.0",
     "gulp.spritesmith": "^6.12.1",
-    "rimraf": "^3.0.2"
+    "pug": "^3.0.2",
+    "rimraf": "^3.0.2",
+    "source-map": "^0.7.3"
   },
   "dependencies": {
     "autoprefixer": "^10.4.0",
